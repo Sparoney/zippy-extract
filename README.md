@@ -1,7 +1,11 @@
 # zippy-extract
-Extract direct links from Zippyshare URLs using zippyshare-downloader
+Extract direct links from Zippyshare URLs using [zippyshare-downloader](https://github.com/mansuf/zippyshare-downloader)
 
-**How to use**
+### Installation
+```
+pip install -r requirements.txt
+```
+### How to use
 1. Put links in `links.txt`
 2. Run script
 3. Direct links appear in `direct-links.txt`
