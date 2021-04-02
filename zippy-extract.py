@@ -1,5 +1,4 @@
 from zippyshare_downloader import Zippyshare
-import time
 
 zippy = Zippyshare()
 
